@@ -1,0 +1,4 @@
+# DateDice is a static single-file site — nothing to build.
+[build]
+  publish = "."
+  command = ""
